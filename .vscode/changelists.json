@@ -1,0 +1,15 @@
+{
+  "changelists": [
+    {
+      "name": "Default",
+      "files": [
+        "README.md",
+        ".vscode/changelists.json",
+        "skills/redesign_portfolio/SKILL.md",
+        "skills/redesign_portfolio/references/design_inspiration.md",
+        "skills/redesign_portfolio/redesign_html_structure/SKILL.md"
+      ]
+    }
+  ],
+  "active": "Default"
+}
