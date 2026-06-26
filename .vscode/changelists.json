@@ -3,11 +3,10 @@
     {
       "name": "Default",
       "files": [
-        "README.md",
-        ".vscode/changelists.json",
-        "skills/redesign_portfolio/SKILL.md",
-        "skills/redesign_portfolio/references/design_inspiration.md",
-        "skills/redesign_portfolio/redesign_html_structure/SKILL.md"
+        "css/index.css",
+        "css/material.deep_purple-purple.min.css",
+        "index.html",
+        ".vscode/changelists.json"
       ]
     }
   ],
