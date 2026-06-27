@@ -54,11 +54,10 @@ Estas formas dan dinamismo sin ser distractoras.
 
 ### 7. Typing Effect en el Hero
 El subtítulo rota entre strings de forma fluida:
-- "Desarrollador de Software"
 - "Ingeniero en Sistemas"
-- "Mobile Developer"
-- "Web Developer"
-- "Problem Solver"
+- "Desarrollador Android"
+- "Desarrollador Backend"
+- "Desarrollador de Software"
 
 ### 8. IntersectionObserver para Scroll Animations
 Elementos que aparecen con animación suave al entrar al viewport, en lugar de cargar

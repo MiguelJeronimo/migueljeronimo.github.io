@@ -124,12 +124,15 @@ El nuevo HTML debe contener las siguientes secciones en orden:
         <h3 class="skills-title">Tecnologías</h3>
         <div class="skills-grid">
           <!-- Tags de tecnologías -->
-          <span class="skill-tag">PHP</span>
+          <span class="skill-tag">Kotlin</span>
           <span class="skill-tag">Android</span>
           <span class="skill-tag">Java</span>
-          <span class="skill-tag">JavaScript</span>
-          <span class="skill-tag">HTML</span>
-          <span class="skill-tag">CSS</span>
+          <span class="skill-tag">Spring Boot</span>
+          <span class="skill-tag">Node.js</span>
+          <span class="skill-tag">MySQL</span>
+          <span class="skill-tag">PostgreSQL</span>
+          <span class="skill-tag">MongoDB</span>
+          <span class="skill-tag">AWS</span>
           <span class="skill-tag">Git</span>
           <span class="skill-tag">GitHub</span>
         </div>
@@ -265,8 +268,8 @@ El nuevo HTML debe contener las siguientes secciones en orden:
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Portfolio de Miguel Angel Jerónimo Díaz, Ingeniero en Sistemas Computacionales y Desarrollador de Software especializado en Android y Web.">
-  <meta name="keywords" content="desarrollador software, android, web, portfolio, Miguel Jeronimo">
+  <meta name="description" content="Portfolio de Miguel Angel Jerónimo Díaz, Ingeniero en Sistemas Computacionales y Desarrollador de Software especializado en Android y Backend.">
+  <meta name="keywords" content="desarrollador software, android, kotlin, java, spring boot, portfolio, Miguel Jeronimo">
   <meta name="author" content="Miguel Angel Jerónimo Díaz">
   <meta property="og:title" content="Miguel Angel Jerónimo — Developer Portfolio">
   <meta property="og:description" content="Portfolio de Miguel Angel Jerónimo Díaz, Desarrollador de Software.">

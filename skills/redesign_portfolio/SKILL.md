@@ -22,8 +22,21 @@ Este es el sitio web portfolio personal de **Miguel Angel Jerónimo Díaz**, Ing
 - **Imagen**: `img/cargo-generico-Mobile-Avatar.png` — avatar genérico
 
 ### Proyectos del Portafolio
-1. **Ttools** — App para el juego Tibia Online (precio de blessings, experiencia compartida, etc.)
-2. **Shopping List** — App de lista de compras con cálculo de precios
+#### Android Apps
+1. **Rucoy Online Calculator** — Una aplicación Android completa para consultar información, calcular estadísticas y gestionar personajes del juego Rucoy Online. Herramienta esencial para jugadores que desean optimizar su progreso. 
+Play Store: https://play.google.com/store/apps/details?id=com.whi99.rucogymcalc
+2. **Swift Shop Pro** — Una aplicación móvil innovadora para Android que te ayuda a organizar y gestionar tus listas de compras de forma fácil y eficiente. 
+Play Store: https://play.google.com/store/apps/details?id=com.whi99.swiftshop
+3. **Tibia Merchants** — Aplicación Android para consultar información de comerciantes (merchants), NPCs e ítems relacionados con Tibia Online. 
+Play Store: https://play.google.com/store/apps/details?id=com.whi99.tibiashops
+Github: https://github.com/MiguelJeronimo/TibiaMerchants
+4. **Tibia Map** — Aplicación Android para consultar mapas, NPCs y metadatos relacionados con Tibia Online. Proporciona localización de NPCs, información adicional Play Store: https://play.google.com/store/apps/details?id=com.whi99.tibiashops
+
+#### Backend Applications Open Source
+1. **Tibia Merchants API** — API REST para consultar información de comerciantes (merchants), NPCs e ítems relacionados con Tibia Online. 
+Github: https://github.com/MiguelJeronimo/tibia-merchants-api
+2. **Rucoy API** — API de Rucoy Online desarrollada en Kotlin + Spring Boot. Proporciona endpoints para consultar noticias, perfiles de personajes, criaturas, equipos, items por categoría, highscores y estadísticas históricas extraídas de fuentes públicas relacionadas con Rucoy.
+Github: https://github.com/MiguelJeronimo/rucoy-api
 
 ### Contacto del Propietario
 - Email: `miguelangeljd93@gmail.com`
