@@ -1071,6 +1071,12 @@ strong {
   border: 1px solid rgba(251, 191, 36, 0.2);
 }
 
+.project-status--open-source {
+  color: var(--color-accent-2);
+  background: rgba(168, 85, 247, 0.08);
+  border: 1px solid rgba(168, 85, 247, 0.2);
+}
+
 .status-dot {
   width: 6px;
   height: 6px;
