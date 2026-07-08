@@ -1,0 +1,16 @@
+# Visual Studio Code
+.vscode/
+
+# Node.js
+node_modules/
+yarn.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environments
+.env
+.env.local
+
+# Project
+README.md
